@@ -16,7 +16,7 @@ GEM
       xml-simple
     builder (3.0.0)
     mime-types (1.18)
-    rack (1.5.2)
+    rack (3.0.9.1)
     rake (13.0.6)
     rest-client (1.6.7)
       mime-types (>= 1.16)
